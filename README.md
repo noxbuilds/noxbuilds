@@ -1,16 +1,19 @@
-## Hi there 👋
+# Nox
 
-<!--
-**noxbuilds/noxbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building quietly. Thinking deeply.
 
-Here are some ideas to get you started:
+Hey, I'm Nox 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning to code, exploring AI, and building projects.
+
+### Currently
+- Learning programming
+- Exploring AI
+- Building my first projects
+
+### Interests
+`AI` · `Code` · `Business` · `Technology`
+
+---
+
+*Quiet mind. Ambitious projects.*
